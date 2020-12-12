@@ -1,5 +1,5 @@
 
-## Available Scripts are as follows
+## Available Scripts are as follows.
 
 In the project directory, you can run:
 ### `npm install`
